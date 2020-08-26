@@ -4,5 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
-  m_configObjects: {}
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Courtroom/Scene/ODIC Working Project.unity
+    guid: bf5aaaa7d5b4def42bd28752680cd2a3
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: d7ad7870f6a35c44d9c498e0c548a602,
+      type: 2}
